@@ -7,6 +7,8 @@ export const removeAccents = (str) => {
     //normalize("NFD").replace(/[\u0300-\u036f]/g, "");
   } 
 
+
+
 export const blocker = (bloqueFinal) => {
     
   bloqueFinal.classList.remove("hide");

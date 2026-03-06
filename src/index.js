@@ -10,7 +10,7 @@ import { JuegoCompleto } from './componentes/JuegoCompleto';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   
-    //<Ahorcado />
+    //<Ahorcado />   
 //<Routers/>
   <JuegoCompleto/> 
   
